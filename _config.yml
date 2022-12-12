@@ -45,19 +45,19 @@ features                                  :
 
   - title                                 : Plans
     description                           : Create as many timebox plans as you want with the pro version.
-    fontawesome_icon_name                 : list
+    fontawesome_icon_name                 : bars
 
-  - title                                 : Timebox
+  - title                                 : Timers
     description                           : Customize your plan by adding as many timers as you want. You will be notified when you complete a block of time and when you finish the entire plan.
-    fontawesome_icon_name                 : timer
+    fontawesome_icon_name                 : hourglass
 
   - title                                 : Reorder
     description                           : Adapt your plan to the needs of the day by rearranging timers.
-    fontawesome_icon_name                 : bars-staggered
+    fontawesome_icon_name                 : list
 
   - title                                 : Chain timers
     description                           : Plans can be continuous, they continue to run automatically when they finish a block of time. You can also configure them so that you have to trigger each timer manually..
-    fontawesome_icon_name                 : rotate-right
+    fontawesome_icon_name                 : link
   
   - title                                 : Colors
     description                           : Customize timers with colors
@@ -72,7 +72,7 @@ features                                  :
     fontawesome_icon_name                 : info-circle
 
   - title                                 : Timebox pro
-    description                           : Access all features: unlimited plans, unlimited timers, change app icon
+    description                           : Access all features. Unlimited plans, unlimited timers, change app icon
     fontawesome_icon_name                 : star
 
 
@@ -83,8 +83,8 @@ topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#1E7477"
-cover_overlay_transparency                : 0.7
+cover_overlay_color                       : "#225957"                                 # 1B3636
+cover_overlay_transparency                : 0.93
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
@@ -105,7 +105,7 @@ feature_icons_background_color            : "#e6e6e6"
 social_icons_foreground_color             : "#1d63ea"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#1E7477"
+footer_text_color                         : "#000000"
 
 
 
